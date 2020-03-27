@@ -3,3 +3,4 @@
 * 1、DCL单例模式-volatile
 * 2、CountDownLatch示例代码
 * 3、CyclicBarrier示例代码
+* 4、Semaphore示例代码：信号量
