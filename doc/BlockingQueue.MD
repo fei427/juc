@@ -1,4 +1,4 @@
-##BlockingQueue-阻塞队列介绍
+## BlockingQueue-阻塞队列介绍
 >
 > BlockingQueue的示例demo较多，基于BlockingQueue可实现生产者消费者模型，Synchronized和Lock也能实现，在此统一汇总
 >
