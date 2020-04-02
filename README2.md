@@ -20,3 +20,6 @@
     * [BlockingQueue-阻塞队列](./doc/BlockingQueue.MD)
     * ConcurrentHashMap-线程安全的Map
     * CopyOnWriteArrayList-线程安全的List
+* 线程池
+    * [ThreadPoolExecutor：7大参数及工作原理](./doc/ThreadPoolExecutor.md)
+    * ![工作原理](./pic/ThreadPoolExecutor.png)
