@@ -8,8 +8,8 @@
 7. handler:拒绝策略,表示当线程队列满了并且工作线程大于等于线程池的最大线程数(maxnumPoolSize)时如何来拒绝.
 ***
 ## 工作原理
-![](../pic/ThreadPoolExecutor.png)
+![ff](../pic/ThreadPoolExecutor.png)
 
 ## 文字描述
-![](../pic/ThreadPoolExecutor_word.png)
+![f](../pic/ThreadPoolExecutor_word.png)
 
