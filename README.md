@@ -25,4 +25,7 @@
     * [拒绝策略](./doc/ThreadRejectedHandler.md)
     * [自定义线程池](./doc/ThreadPoolCustom.md)
     * [线程池最大线程数如何选择？](./doc/ThreadPoolCustom.md)
+* 死锁
+    * [基本概念](./doc/DeadLock.md)
+    * [示例代码](./src/main/java/pers/liangshan/demos/juc/DeadLock.java)
  
